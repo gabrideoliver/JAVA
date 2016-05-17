@@ -1,0 +1,13 @@
+
+package javaapplication1;
+
+public class JavaApplication1 {
+
+ 
+    public static void main(String[] args) {
+     long n = 1;
+     int fat = 10;
+for (int i = 1; i <= fat; i++) {
+    System.out.println(n=i*(n));
+} 
+     
